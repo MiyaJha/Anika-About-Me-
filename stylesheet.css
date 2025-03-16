@@ -4,11 +4,11 @@ body{
     font-size: large;
     font-weight: bold;
     font-style: normal;
-  }
+    background-image: url(images/paper.jpg)
+}
+  
  #b{
     font-weight: bolder;
-    
     display: flex;
     justify-content: center;
-
- } 
+} 
