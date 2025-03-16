@@ -6,9 +6,31 @@ body{
     font-style: normal;
     background-image: url(images/paper.jpg)
 }
-  
+  h1{
+    color: rgb(95, 45, 10);
+  }
  #b{
     font-weight: bolder;
     display: flex;
     justify-content: center;
 } 
+
+.one{
+    display: flex;
+    margin-left: 4.9rem;
+    margin-right: 4.9rem;
+    margin-top: 5rem;
+    
+}
+#p1{
+    margin-left: 5rem;
+    
+}
+#p2{
+    margin-right: 5rem;
+}
+/* .two{
+    display: flex;
+    
+
+} */
