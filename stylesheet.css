@@ -7,7 +7,7 @@ body{
     background-image: url(images/paper.jpg)
 }
   h1{
-    color: rgb(95, 45, 10);
+    color: #5e2d0a;
   }
  #b{
     font-weight: bolder;
@@ -19,18 +19,28 @@ body{
     display: flex;
     margin-left: 4.9rem;
     margin-right: 4.9rem;
-    margin-top: 5rem;
-    
+    margin-top: 5rem;   
 }
 #p1{
     margin-left: 5rem;
+    font-stretch:ultra-expanded;
+     
     
 }
 #p2{
     margin-right: 5rem;
-}
-/* .two{
     display: flex;
+    align-self: center;
+    font-stretch:ultra-expanded;
+   
+}
+img{
+    border-radius: 5%;
     
-
-} */
+}
+/* Partner prefers a design that uses coolor palettes that are soft on the eyes. Bright colors 
+and white backgrounds are a trigger for headaches. My partner also enjoys the styling of 
+pictures on Pinterest, as some pictures are larger than others. The webpage background was chosen to mimic
+the pages of a book, because Anika describes herself as someone who always has a fantasty/fiction novel 
+in her hands. She enjoys a minimalistic style, so I took that approach to create a not so busy
+design layout. The chosen font is similar to a style she told me she likes. */
